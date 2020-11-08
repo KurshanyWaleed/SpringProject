@@ -11,7 +11,7 @@
 	<groupId>com.dmwm.location_voiture</groupId>
 	<artifactId>Location</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>Location voiture</name>
 	<description>Location voiture project for Spring Boot</description>
 
 	<properties>
